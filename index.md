@@ -1,3 +1,2 @@
-# Mi primer Header H1
-## Juego Nuevo de GItHub
-#### Empezamos con lo mejor de lo mejor
+### Steroidtocat Stronger
+![Image of Steroidtocat](https://octodex.github.com/images/steroidtocat.png)
