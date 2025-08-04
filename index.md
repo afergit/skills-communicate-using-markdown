@@ -1,6 +1,7 @@
-### Steroidtocat Stronger
+### The Stronger Steroidtocat
 ![Image of Steroidtocat](https://octodex.github.com/images/steroidtocat.png)
 
+## Code
 ``` javascript
 var myVar = "Hello, world!";
 ```
@@ -9,3 +10,4 @@ var myVar = "Hello, world!";
 - [X] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
